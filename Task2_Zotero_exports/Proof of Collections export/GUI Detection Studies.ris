@@ -1,0 +1,75 @@
+TY  - JOUR
+TI  - GUI Element Detection Using SOTA YOLO Deep Learning Models
+AU  - Daneshvar, Seyed Shayan
+AU  - Wang, Shaowei
+AB  - Detection of Graphical User Interface (GUI) elements is a crucial task for automatic code generation from images and sketches, GUI testing, and GUI search. Recent studies have leveraged both old-fashioned and modern computer vision (CV) techniques. Oldfashioned methods utilize classic image processing algorithms (e.g. edge detection and contour detection) and modern methods use mature deep learning solutions for general object detection tasks. GUI element detection, however, is a domain-specific case of object detection, in which objects overlap more often, and are located very close to each other, plus the number of object classes is considerably lower, yet there are more objects in the images compared to natural images. Hence, the studies that have been carried out on comparing various object detection models, might not apply to GUI element detection. In this study, we evaluate the performance of the four most recent successful YOLO models for general object detection tasks on GUI element detection and investigate their accuracy performance in detecting various GUI elements.
+DA  - 2024/08/07/
+PY  - 2024
+DO  - 10.48550/arXiv.2408.03507
+DP  - arXiv.org
+UR  - http://arxiv.org/abs/2408.03507
+Y2  - 2025/04/17/11:02:43
+L2  - http://arxiv.org/abs/2408.03507
+L4  - http://arxiv.org/pdf/2408.03507v1
+N1  - <div data-schema-version="9"><p>This article examines how state-of-the-art YOLO models perform in detecting GUI components. It focuses on objective metrics such as accuracy and recall, making it highly relevant for bench marking OmniParser’s results.</p>
+</div>
+KW  - Deep Learning
+KW  - GUI Automation
+KW  - Benchmarking
+ER  - 
+
+TY  - CONF
+TI  - Mobile User Interface Element Detection Via Adaptively Prompt Tuning
+AU  - Gu, Zhangxuan
+AU  - Xu, Zhuoer
+AU  - Chen, Haoxing
+AU  - Lan, Jun
+AU  - Meng, Changhua
+AU  - Wang, Weiqiang
+T2  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+AB  - Recent object detection approaches rely on pretrained vision-language models for image-text alignment. However, they fail to detect the Mobile User Interface (MUI) element since it contains additional OCR information, which describes its content and function but is often ignored. In this paper, we develop a new MUI element detection dataset named MUI-zh and propose an Adaptively Prompt Tuning (APT) module to take advantage of discriminating OCR information. APT is a lightweight and effective module to jointly optimize category prompts across different modalities. For every element, APT uniformly encodes its visual features and OCR descriptions to dynamically adjust the representation of frozen category prompts. We evaluate the effectiveness of our plug-and-play APT upon several existing CLIP-based detectors for both standard and openvocabulary MUI element detection. Extensive experiments show that our method achieves considerable improvements on two datasets. The datasets is available at github. com/antmachineintelligence/MUI-zh.
+C1  - Vancouver, BC, Canada
+C3  - 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+DA  - 2023/06//
+PY  - 2023
+DO  - 10.1109/CVPR52729.2023.01073
+DP  - DOI.org (Crossref)
+SP  - 11155
+EP  - 11164
+LA  - en
+PB  - IEEE
+SN  - 979-8-3503-0129-8
+UR  - https://ieeexplore.ieee.org/document/10205239/
+Y2  - 2025/04/17/11:05:15
+L1  - https://openaccess.thecvf.com/content/CVPR2023/papers/Gu_Mobile_User_Interface_Element_Detection_via_Adaptively_Prompt_Tuning_CVPR_2023_paper.pdf
+N1  - <div data-schema-version="9"><p>This study investigates a prompt tuning approach for mobile GUI detection. It provides useful insights into model adaptability, which aligns with the hypothesis on performance variability across interface complexities.</p>
+</div>
+KW  - Deep Learning
+KW  - Benchmarking
+ER  - 
+
+TY  - JOUR
+TI  - How Expertise Affects a Digital-Rights-Management-Sharing Application's Usability
+AU  - Lah, Urska
+AU  - Lewis, James R.
+T2  - IEEE Software
+AB  - Researchers performed a usability study of a digital-rights-management sharing (DRMS) application with which users protect and share digital files. Besides the standard goal of identifying usability problems, the study investigated how expertise affects objective and perceived usability, the correlations among the usability metrics, and how the usability outcomes compared with emerging norms. The researchers divided the 18 study participants into two groups of nine according to skill level. The participants performed seven DRMS tasks. The groups differed significantly in objective usability (successful task completions, errors, and completion times) and perceived usability (ratings of a variant of the System Usability Scale [SUS]). Two correlations were statistically significant (success with the SUS and success with errors); all six possible correlations were in the expected direction. On the basis of the published norms, the overall success rate was below average; the SUS's overall mean was average. The main takeaways for practitioners are two practical examples. The first involved using independently derived benchmarks to assess the perceived usability and effectiveness; the second involved testing different skill groups.
+DA  - 2016/05//
+PY  - 2016
+DO  - 10.1109/MS.2015.104
+DP  - IEEE Xplore
+VL  - 33
+IS  - 3
+SP  - 76
+EP  - 82
+SN  - 1937-4194
+UR  - https://ieeexplore.ieee.org/document/7281117
+Y2  - 2025/04/17/11:05:31
+L2  - https://ieeexplore.ieee.org/document/7281117
+N1  - <div data-schema-version="9"><p>The article outlines an early implementation of AI-based GUI testing. Though limited to simpler layouts, it helps contextualize the evolution of automated interface detection over time.</p>
+</div>
+KW  - System Usability Scale
+KW  - GUI Automation
+KW  - Experimental Design
+ER  - 
+
